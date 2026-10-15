@@ -25,3 +25,4 @@ The calculator displays the calculated simple interest.
 ## License
 
 This project is licensed under the Apache License 2.0.
+This change is submitted for review through a pull request.
